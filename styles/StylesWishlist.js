@@ -1,0 +1,87 @@
+import { StyleSheet } from 'react-native';
+
+export default StyleSheet.create({
+    // Search ja Add -nappien container
+    container1: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        width: '100%',
+        paddingHorizontal: 40,
+        paddingTop: 20,
+        backgroundColor: '#efefef',
+    },
+    container3: {
+        flexDirection: 'row',
+        justifyContent: 'center',
+        alignItems: 'center',
+        flexWrap: 'wrap',
+        paddingTop: 20,
+        backgroundColor: 'white',
+        paddingTop: 25,
+        paddingBottom: 25,
+        borderBottomColor: '#e5e5e5',
+        borderBottomWidth: 1,
+    },
+    // Search ja Add -nappien tyylit
+    pickButton: {
+        backgroundColor: '#f8f9fa',
+        borderWidth: 1,
+        borderColor: '#e5e5e5',
+        padding: 10,
+        width: '30%',
+        marginHorizontal: 5,
+        borderTopEndRadius: 15,
+        borderTopStartRadius: 15,
+    },
+    pickButtonActive: {
+        backgroundColor: 'white',
+        borderTopWidth: 1,
+        borderLeftWidth: 1,
+        borderRightWidth: 1,
+        borderColor: '#e1e1e1',
+        borderBottomColor: 'white',
+        width: '40%',
+        borderTopEndRadius: 15,
+        borderTopStartRadius: 15,
+    },
+    pickText: {
+        color: '#8c8c8c',
+        textAlign: 'center',
+        fontSize: 14,
+        textTransform: 'uppercase',
+    },
+    pickTextActive: {
+        color: '#83C5BE',
+        fontWeight: 'bold',
+    },
+    error: {
+        color: 'red',
+        paddingTop: 20,
+        paddingBottom: 10,
+        textAlign: 'center',
+    },
+    note: {
+        paddingTop: 20,
+        paddingBottom: 20,
+        textAlign: 'center',
+        color: '#8c8c8c',
+    },
+    pressable_add: {
+        fontSize: 25,
+        color: '#83C5BE',
+    },
+    input: {
+        width: '80%',
+        height: 40,
+        borderRadius: 20,
+        paddingLeft: 15,
+        paddingRight: 10,
+        paddingTop: 5,
+        paddingBottom: 5,
+        fontSize: 15,
+        borderColor: '#E29578',
+        borderWidth: 1,
+        marginRight: 20,
+    },
+})
