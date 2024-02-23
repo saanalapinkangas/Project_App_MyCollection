@@ -2,7 +2,7 @@
 
 *lisää logo
 *lisää gif toiminnasta
-[DEMOVIDEO] (https://youtu.be/iRxO9ZWjvRU)
+[DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)
 
 This is personal application, that was designed to keep track on collections. The designer, me, have collected physical movies, series and music for so long, that it's a real challenge to remember them all. So to prevent buying multiple copies, I created this app.
 
