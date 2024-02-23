@@ -2,9 +2,7 @@
 
 *lisää logo
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg))
-
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="300">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
 
 *lisää gif toiminnasta
 [DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)
