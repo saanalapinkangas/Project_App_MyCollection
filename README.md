@@ -1,6 +1,6 @@
 # App_MyCollection2023
 
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
 
 [DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)
 
