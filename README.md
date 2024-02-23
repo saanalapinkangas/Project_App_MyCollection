@@ -1,11 +1,8 @@
 # App_MyCollection2023
 
-*lisää logo
-
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
 
-*lisää gif toiminnasta
-<center>[DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)</center>
+[DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)
 
 This is personal application, that was designed to keep track on collections. The designer, me, have collected physical movies, series and music for so long, that it's a real challenge to remember them all. So to prevent buying multiple copies, I created this app.
 
@@ -21,6 +18,8 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 ### Ominaisuudet
 
 * lisää kuvat/giffit
+<img src='https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg' width='400>
+<img src='https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg' width='400>
 
 - Save your collections of movies, tv-series and music. You may delete selected items or search them by name.
 - Keep wishlist of all the items, you wish to add to your collection in the future.
