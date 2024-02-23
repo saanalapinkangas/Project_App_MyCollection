@@ -1,6 +1,6 @@
 # App_MyCollection2023
 
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="100%">
 
 [DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)
 
@@ -17,13 +17,14 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 
 ### Ominaisuudet
 
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="100%">
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg" width="400">
-
 - Save your collections of movies, tv-series and music. You may delete selected items or search them by name.
 - Keep wishlist of all the items, you wish to add to your collection in the future.
 - Search movies from TMDB-database ja löydä lisätietoja ja linkitys imdb:n sivuille
 - löydä elokuvasuosituksia kokoelmastasi random-generaattorilla (etusivu)
 
-- 
+
+### Photos
+
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg" width="100%">
  
