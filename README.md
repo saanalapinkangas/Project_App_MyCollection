@@ -17,7 +17,7 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 
 ### Ominaisuudet
 
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="400">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="100%">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg" width="400">
 
 - Save your collections of movies, tv-series and music. You may delete selected items or search them by name.
