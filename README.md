@@ -1,8 +1,11 @@
-# App_MyCollection2023
-
+## App MyCollections
+<p align="center">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
 
 [DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)
+<a href="https://youtu.be/iRxO9ZWjvRU">DEMOVIDEO</a>
+
+</p>
 
 This is personal application, that was designed to keep track on collections. The designer, me, have collected physical movies, series and music for so long, that it's a real challenge to remember them all. So to prevent buying multiple copies, I created this app.
 
@@ -14,17 +17,20 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 
 - Saana Lapinkangas, 2023 (designer)
 
+> [!NOTE]
+> This app is not available for permanent or commercial use.
 
-### Ominaisuudet
+
+### What it does
 
 - Save your collections of movies, tv-series and music. You may delete selected items or search them by name.
 - Keep wishlist of all the items, you wish to add to your collection in the future.
-- Search movies from TMDB-database ja löydä lisätietoja ja linkitys imdb:n sivuille
-- löydä elokuvasuosituksia kokoelmastasi random-generaattorilla (etusivu)
+- Search movies from TMDB-database, read basic info with photo and click to open movie's IMDB-page
+- Get movie recommendations of your collection via random generator on the front page
 
 
 ### Photos
 
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="90%">
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg" width="90%">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="80%">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg" width="80%">
  
