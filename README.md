@@ -1,7 +1,8 @@
 ## App MyCollections
 <p align="center">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
- </p>
+</p>
+
 <p align="center">
 <a href="https://youtu.be/iRxO9ZWjvRU">DEMOVIDEO</a>
 </p>
@@ -16,14 +17,16 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 
 - Saana Lapinkangas, 2023 (designer)
 
-<p>&nbsp;</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/gif_sovellus.gif" width="500">
+</p>
+
 <p>&nbsp;</p>
 
 > [!NOTE]
 > This app is not available for permanent or commercial use.
 
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
  
 ### :magic_wand: What it does
