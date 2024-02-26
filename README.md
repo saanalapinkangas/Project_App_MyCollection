@@ -1,6 +1,8 @@
 ## App MyCollections
 <p align="center">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/gif_sovellus.gif" height="300">
 </p>
 
 <p align="center">
