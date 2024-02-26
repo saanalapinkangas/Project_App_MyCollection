@@ -28,10 +28,6 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 > [!NOTE]
 > This app is not available for permanent or commercial use.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/gif_sovellus.gif" height="400">
-</p>
-
 <p>&nbsp;</p>
  
 ### :magic_wand: What it does
