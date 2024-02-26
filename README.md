@@ -16,11 +16,13 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 
 - Saana Lapinkangas, 2023 (designer)
 
+ 
 > [!NOTE]
 > This app is not available for permanent or commercial use.
 
 
-### What it does
+ 
+### :magic_wand: What it does
 
 - Save your collections of movies, tv-series and music. You may delete selected items or search them by name.
 - Keep wishlist of all the items, you wish to add to your collection in the future.
@@ -28,7 +30,7 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 - Get movie recommendations of your collection via random generator on the front page
 
 
-### Photos
+### :camera: Photos
 
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="80%">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg" width="80%">
