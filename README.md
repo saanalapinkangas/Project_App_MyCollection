@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/gif_sovellus.gif" height="400">
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/mockup1.png" height="400">
-</p>
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/gif_sovellus.gif" height="400"></p>
 
 <h5 align="center">
 <a href="https://youtu.be/iRxO9ZWjvRU">WATCH FULL DEMOVIDEO</a>
