@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/gif_sovellus.gif" height="400">
-<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/mockup.png" height="400">
+<img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/mockup.png" height="300">
 </p>
 
 <h5 align="center">
