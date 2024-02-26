@@ -1,7 +1,7 @@
 ## App MyCollections
 <p align="center">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/logo2.jpg" width="500">
-
+<p align="center">
 [DEMOVIDEO](https://youtu.be/iRxO9ZWjvRU)
 <a href="https://youtu.be/iRxO9ZWjvRU">DEMOVIDEO</a>
 
