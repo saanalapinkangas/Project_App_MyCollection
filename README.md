@@ -40,7 +40,8 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 <p>&nbsp;</p>
 
 ### :camera: Photos
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo1.jpg" width="80%">
 <img src="https://raw.githubusercontent.com/saanalapinkangas/Project_App_MyCollection/main/readme_bundle/photo2.jpg" width="80%">
+</p>
  
