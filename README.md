@@ -15,12 +15,14 @@ All the data in the app is stored locally on the device. The app is using TMDB-d
 You may test app by downloading source code to Visual Studio Code and using Expo Go. App is not available for permanent use. Designed for iPhone, not tested on Android.
 
 - Saana Lapinkangas, 2023 (designer)
-.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 > [!NOTE]
 > This app is not available for permanent or commercial use.
 
-.
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
  
@@ -31,6 +33,7 @@ You may test app by downloading source code to Visual Studio Code and using Expo
 - Search movies from TMDB-database, read basic info with photo and click to open movie's IMDB-page
 - Get movie recommendations of your collection via random generator on the front page
 
+<p>&nbsp;</p>
 
 ### :camera: Photos
 
