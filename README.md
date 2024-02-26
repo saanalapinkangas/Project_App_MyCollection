@@ -15,11 +15,10 @@ All the data in the app is stored locally on the device. The app is using TMDB-d
 You may test app by downloading source code to Visual Studio Code and using Expo Go. App is not available for permanent use. Designed for iPhone, not tested on Android.
 
 - Saana Lapinkangas, 2023 (designer)
-
- 
+<p> . </p>
 > [!NOTE]
 > This app is not available for permanent or commercial use.
-
+<p> . </p>
 
  
 ### :magic_wand: What it does
